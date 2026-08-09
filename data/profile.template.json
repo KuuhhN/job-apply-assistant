@@ -1,0 +1,67 @@
+{
+  "identity": {
+    "name": "",
+    "location": "",
+    "phone": "",
+    "email": "",
+    "wechat": "",
+    "github": "",
+    "languages": [
+      {"name": "中文", "level": "母语"},
+      {"name": "英语", "level": ""}
+    ],
+    "status": "在校大三，2026 届，可实习时间：",
+    "political": ""
+  },
+  "target": {
+    "job_titles": ["后端开发实习生", "Python 开发实习生"],
+    "expected_salary_month": "",
+    "available_from": "",
+    "work_mode": "坐班 / 混合 / 远程",
+    "cities": [],
+    "constraints": [],
+    "dealbreakers": ["996", "外包"]
+  },
+  "education": [
+    {
+      "school": "",
+      "major": "",
+      "degree": "本科",
+      "date_start": "2022-09",
+      "date_end": "2026-06",
+      "gpa": "",
+      "honors": [],
+      "courses": []
+    }
+  ],
+  "experience": [
+    {
+      "company": "",
+      "role": "",
+      "date_start": "",
+      "date_end": "",
+      "bullets": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "tech_stack": "",
+      "date_start": "",
+      "date_end": "",
+      "description": "",
+      "bullets": []
+    }
+  ],
+  "skills": [
+    {"name": "", "level": "熟练/熟悉/了解"}
+  ],
+  "awards": [],
+  "publications": [],
+  "behavioral": {
+    "traits": [],
+    "strengths": [],
+    "growth_areas": [],
+    "ideal_environment": ""
+  }
+}
