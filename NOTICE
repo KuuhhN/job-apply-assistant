@@ -1,0 +1,15 @@
+NOTICE
+======
+
+本项目（job-apply-assistant）基于以下开源项目二次开发：
+
+- 上游 1：sunyet-01/ai-job-search-cn（MIT License, Copyright 2026 AI Job Search CN contributors）
+- 上游 2：MadsLorentzen/ai-job-search（MIT License, Copyright 2025-2026 Mads Lorentzen）
+
+本项目的增量改造（相对上游）：
+1. `tools/resume_render.py`：重构中文简历渲染，适配 Windows 中文字体
+   （上游为 macOS 字体路径，Windows 下无法渲染）
+2. LLM 简历生成闭环：画像 + JD → 结构化 JSON → PDF（上游未实现该环节）
+3. SKILL.md 工作流封装：评估 → 草拟 → Reviewer 批评 → 修订 → 编译校验
+
+上游代码以 MIT 协议授权，本项目同样以 MIT 协议发布（见 LICENSE）。
